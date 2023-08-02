@@ -38,7 +38,7 @@ const joinValues = () => {
         url: 'https://sudoku-solver3.p.rapidapi.com/sudokusolver/',
         headers: {
             'content-type': 'application/json',
-            'X-RapidAPI-Key': '11022d6b1dmsh78a92c849dfee1dp1617e0jsn9ab71ce8106c',
+            
             'X-RapidAPI-Host': 'sudoku-solver3.p.rapidapi.com'
         },
         data: {
